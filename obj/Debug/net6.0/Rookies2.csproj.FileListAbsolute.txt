@@ -1,0 +1,15 @@
+D:\training\Rookies2\bin\Debug\net6.0\Rookies2.exe
+D:\training\Rookies2\bin\Debug\net6.0\Rookies2.deps.json
+D:\training\Rookies2\bin\Debug\net6.0\Rookies2.runtimeconfig.json
+D:\training\Rookies2\bin\Debug\net6.0\Rookies2.dll
+D:\training\Rookies2\bin\Debug\net6.0\Rookies2.pdb
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.csproj.AssemblyReference.cache
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.AssemblyInfoInputs.cache
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.AssemblyInfo.cs
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.csproj.CoreCompileInputs.cache
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.dll
+D:\training\Rookies2\obj\Debug\net6.0\refint\Rookies2.dll
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.pdb
+D:\training\Rookies2\obj\Debug\net6.0\Rookies2.genruntimeconfig.cache
+D:\training\Rookies2\obj\Debug\net6.0\ref\Rookies2.dll
